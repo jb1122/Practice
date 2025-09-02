@@ -1,0 +1,3 @@
+width = 110
+height = 110
+framerate = 120

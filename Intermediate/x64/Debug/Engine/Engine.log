@@ -1,0 +1,27 @@
+﻿  C:Actor\Actor.h
+  C:Core\Core.h
+  C:Core\Delegate.h
+  C:Core\Engine.h
+  C:Core\Input.h
+  C:Core\RTTI.h
+  C:Level\Level.h
+  C:Math\Color.h
+  C:Math\Vector2.h
+  C:Render\ScreenBuffer.h
+  C:Utils\Utils.h
+  11개 파일이 복사되었습니다.
+  ..\Settings\EngineSettings.txt
+  1개 파일이 복사되었습니다.
+  Actor.cpp
+  Engine.cpp
+  Input.cpp
+  Level.cpp
+  Vector2.cpp
+  ScreenBuffer.cpp
+  코드를 생성하고 있습니다...
+     C:\WorkSpace_jaebeom\DataStructure\Game_Algorithm_DoubleBuffer\Bin\x64\Debug\Engine\Engine.lib 라이브러리 및 C:\WorkSpace_jaebeom\DataStructure\Game_Algorithm_DoubleBuffer\Bin\x64\Debug\Engine\Engine.exp 개체를 생성하고 있습니다.
+  Engine.vcxproj -> C:\WorkSpace_jaebeom\DataStructure\Game_Algorithm_DoubleBuffer\Bin\x64\Debug\Engine\Engine.dll
+  C:\WorkSpace_jaebeom\DataStructure\Game_Algorithm_DoubleBuffer\Bin\x64\Debug\Engine\Engine.lib
+  1개 파일이 복사되었습니다.
+  C:\WorkSpace_jaebeom\DataStructure\Game_Algorithm_DoubleBuffer\Bin\x64\Debug\Engine\Engine.dll
+  1개 파일이 복사되었습니다.
